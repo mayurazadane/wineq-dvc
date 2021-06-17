@@ -15,3 +15,6 @@ def test_something():
     a = 2
     b = 2
     assert True
+# https://quark-concourse3.mia.ulti.io/
+# https://ultigit.ultimatesoftware.com/projects/DS/repos/template-standardized-deployable-repo/browse
+# https://ultigit.ultimatesoftware.com/projects/DS/repos/service-hello-datascience/browse
