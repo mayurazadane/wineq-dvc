@@ -1,6 +1,7 @@
 .dvcignore
 .gitignore
 README.md
+app.py
 dvc.lock
 dvc.yaml
 params.yaml
@@ -36,6 +37,8 @@ notebooks/Untitled.ipynb
 notebooks/schema_in.json
 notebooks/.ipynb_checkpoints/Untitled-checkpoint.ipynb
 notebooks/.ipynb_checkpoints/schema_in-checkpoint.json
+prediction_service/__init__.py
+prediction_service/prediction.py
 report/params.json
 report/scores.json
 saved_models/.gitignore
@@ -57,3 +60,7 @@ tests/test_config.py
 tests/__pycache__/__init__.cpython-37.pyc
 tests/__pycache__/conftest.cpython-37-pytest-6.2.4.pyc
 tests/__pycache__/test_config.cpython-37-pytest-6.2.4.pyc
+webapp/static/css/main.css
+webapp/templates/404.html
+webapp/templates/base.html
+webapp/templates/index.html
